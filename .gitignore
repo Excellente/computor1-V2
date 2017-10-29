@@ -1,0 +1,5 @@
+.vscode
+*.swo
+*.swp
+._*
+.DS*
